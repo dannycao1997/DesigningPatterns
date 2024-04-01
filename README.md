@@ -13,3 +13,4 @@ Do Design Pattern Presentation
   - Tell'm what you told'em
 
 Keep it simple. Make it CONCISE.
+//FINISHED
